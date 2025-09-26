@@ -75,7 +75,7 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["python_code"]
-exclude = ["fuzzingbook*"]
+# exclude = ["fuzzingbook*"]
 
 [project.urls]
 homepage = "https://fuzzingbook.org/"
